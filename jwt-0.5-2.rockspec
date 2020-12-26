@@ -15,7 +15,7 @@ dependencies = {
   "lua >= 5.1",
   "busted >= 1.7-1",
   "luaossl >= 20151221-0",
-  "lua-cjson-ol >= 1.0-1",
+  "lua-cjson >= 2.1.0.6-1",
   "basexx >= 0.2.0-0"
 }
 build = {
